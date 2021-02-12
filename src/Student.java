@@ -1,11 +1,7 @@
 public class Student {
     String name;
-    int year;
-    String major;
 
-    Student(String name, int year, String major) {
+    Student(String name) {
         this.name = name;
-        this.year = year;
-        this.major = major;
     }
 }
