@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f744048-e212-427d-b3a3-1a368090ac7f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW-1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW-1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW-1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW-1/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +30,12 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+    <property name="settings.editor.selected.configurable" value="file.status.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eltre\Desktop\CS-151" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
